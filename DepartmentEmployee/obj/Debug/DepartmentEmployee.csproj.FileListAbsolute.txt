@@ -1,0 +1,12 @@
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\bin\Debug\DepartmentEmployee.exe.config
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\bin\Debug\DepartmentEmployee.exe
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\bin\Debug\DepartmentEmployee.pdb
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\obj\Debug\DepartmentEmployee.csprojAssemblyReference.cache
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\obj\Debug\DepartmentEmployee.Form1.resources
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\obj\Debug\DepartmentEmployee.Properties.Resources.resources
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\obj\Debug\DepartmentEmployee.csproj.GenerateResource.cache
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\obj\Debug\DepartmentEmployee.csproj.CoreCompileInputs.cache
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\obj\Debug\DepartmentEmployee.exe
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\obj\Debug\DepartmentEmployee.pdb
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\obj\Debug\DepartmentEmployee.Form2.resources
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DepartmentEmployee\DepartmentEmployee\obj\Debug\DepartmentEmployee.Form3.resources
